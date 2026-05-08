@@ -1,0 +1,29 @@
+# Environment & Secrets
+bottlebot-d41cd-firebase-adminsdk-fbsvc-bdd7e7e0a9.json
+*.env
+*.env.local
+.env*
+
+# Dependencies
+node_modules/
+.expo/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build outputs
+.next/
+out/
